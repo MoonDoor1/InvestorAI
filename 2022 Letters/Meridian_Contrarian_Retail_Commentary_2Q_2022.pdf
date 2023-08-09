@@ -1,0 +1,631 @@
+<!doctype html>
+<html lang="en-US">
+  <head> <script type="text/javascript">if(!gform){document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0});var gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),null==t&&(t=10),gform.hooks[o][n].push({tag:i,callable:r,priority:t})},doHook:function(o,n,r){if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[o][n]){var t,i=gform.hooks[o][n];i.sort(function(o,n){return o.priority-n.priority});for(var e=0;e<i.length;e++)"function"!=typeof(t=i[e].callable)&&(t=window[t]),"action"==o?t.apply(null,r):r[0]=t.apply(null,r)}if("filter"==o)return r[0]},removeHook:function(o,n,r,t){if(null!=gform.hooks[o][n])for(var i=gform.hooks[o][n],e=i.length-1;0<=e;e--)null!=t&&t!=i[e].tag||null!=r&&r!=i[e].priority||i.splice(e,1)}}}</script>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>404 &#x2d; ArrowMark Partners</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<meta name="robots" content="noindex,max-snippet:-1,max-image-preview:standard,max-video-preview:-1" />
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.arrowmarkpartners.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='megamenu-css'  href='https://www.arrowmarkpartners.com/wp-content/uploads/maxmegamenu/style.css?ver=9fbb42' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.arrowmarkpartners.com/wp-includes/css/dashicons.min.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-genericons-css'  href='https://www.arrowmarkpartners.com/wp-content/plugins/megamenu-pro/icons/genericons/genericons/genericons.css?ver=2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-fontawesome-css'  href='https://www.arrowmarkpartners.com/wp-content/plugins/megamenu-pro/icons/fontawesome/css/font-awesome.min.css?ver=2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-fontawesome5-css'  href='https://www.arrowmarkpartners.com/wp-content/plugins/megamenu-pro/icons/fontawesome5/css/all.min.css?ver=2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='searchwp-live-search-css'  href='https://www.arrowmarkpartners.com/wp-content/plugins/searchwp-live-ajax-search/assets/styles/style.css?ver=1.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/main.css-css'  href='https://www.arrowmarkpartners.com/wp-content/themes/arrowmarkpartners/dist/styles/main_52b67a6b.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.arrowmarkpartners.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.arrowmarkpartners.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.arrowmarkpartners.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.arrowmarkpartners.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.arrowmarkpartners.com/wp-includes/wlwmanifest.xml" /> 
+		<style type="text/css" id="wp-custom-css">
+			
+.home .brand-logo{
+	max-width:390px;
+	top:80px;
+	z-index:1 !important
+
+}
+
+.pum-close{
+	border:1px solid #666;
+	width:150px;
+	padding:10px 20px;
+	text-align:center;float:left;
+}
+
+.modalbutton{
+	border:1px solid #666;
+	width:150px;
+	padding:10px 20px;
+	text-align:center;
+	float:left;
+	margin-left:20px;
+}
+.pum p{
+	color:#333;
+	line-height:24px;
+}
+.fa-linkedin{
+	font-size:20px
+}
+
+@media only screen and (min-width: 1281px) {
+	nav.navbar.d-flex{display: inline-block !important;
+width: 100%;}
+	nav.navbar .navbar-brand{float: right;}
+}
+
+
+
+/* ADDED 3-16-2022 */
+	
+	
+	
+	
+	.colbottom{
+		padding:7px 10px;
+	}
+	
+	
+	@media only screen and (min-width: 587px){
+		
+		.coltop{
+				height:90px !important;
+
+		color:#fff;
+		padding:20px 7px;
+		text-align:center;
+		font-weight:bold;
+	}
+	
+
+.custcol{
+	border: solid #fff 1px;
+		display: table-cell;
+		background:#f2f2f2;}
+.tablecontainer{
+	width:100%;
+	display: table; 
+
+	}
+		
+		.top1{
+		background:#09578a;
+		display: table-cell;
+		 vertical-align: middle;
+		width: 250px;
+        height: 200px;
+        padding: 10px;
+	}
+	
+	.top2{
+		background:#09578a;
+		display: table-cell;
+		 vertical-align: middle;
+		width: 250px;
+        height: 200px;
+        padding: 10px;
+	}
+	
+	.top3{
+		background:#09578a;
+		display: table-cell;
+		 vertical-align: middle;
+		width: 250px;
+        height: 200px;
+        padding: 10px;
+	}
+	
+	.top4{
+		background:#09578a;
+		display: table-cell;
+		 vertical-align: middle;
+		width: 250px;
+        height: 200px;
+        padding: 10px;
+	}
+}
+	
+	@media only screen and (max-width: 586px){
+		
+		.coltop{
+
+		color:#fff;
+		padding:20px 7px;
+		text-align:center;
+		font-weight:bold;
+	}
+	
+		
+		.top1{
+		background:#09578a;
+	
+
+	}
+	
+	.top2{
+		background:#09578a;
+		
+	
+	}
+	
+	.top3{
+		background:#09578a;
+		
+		
+	}
+	
+	.top4{
+		background:#09578a;
+		
+		
+	}
+
+.custcol{width:100% !important;
+	border: solid #fff 1px;
+		display: table-cell;
+		background:#f2f2f2;}
+
+}
+
+
+
+/* TAble 2 */
+
+/*.container{
+    max-width: 1170px;
+    margin: auto;
+}*/
+
+.data-list{
+    background-color: #4073A2;
+    width: 20%;
+    padding-bottom: 1px;
+    position: relative;
+}
+.banner{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.data-list ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 50px;
+}
+.data-list ul li{
+    padding: 0px 20px;
+    margin-bottom: 5px;
+}
+.data-list ul li:nth-child(1){
+    margin-bottom: 20px;
+}
+.data-list ul li:nth-child(2){
+    margin-bottom: 13px;
+}
+.data-list ul li:nth-child(3){
+    margin-bottom: 22px;
+}
+.data-list ul li:nth-child(4){
+    margin-bottom: 25px;
+}
+.data-list ul li:nth-child(5){
+    margin-bottom: 30px;
+}
+.data-list ul li:nth-child(6){
+    margin-bottom: 35px;
+}
+.data-list ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: bold;
+}
+.data-list ul li:nth-last-child(2){
+    margin-top: 80px;
+}
+.data-list ul li:nth-last-child(1){
+    position: absolute;
+    bottom: 10px;
+}
+.top-item h3 {
+    color: #fff;
+    margin: 0;
+    font-size: 24px;
+    font-weight: 400;
+}
+.topbar{
+    display: flex;
+    align-items: center;
+    background-color: #4073A2;
+}
+.top-item{
+    text-align: center;
+    border-left: 3px solid #779CBD;
+    width: 33.3%;
+    padding: 8px 0;    
+}
+
+.top-item strong{color:#fff}
+.right-side{
+    width: 80%;
+}
+.banner-flex{
+    display: flex;
+    /*border: 2px solid #cdd4ea;*/
+    padding: 1px;    
+}
+.right-side .top-color{
+    color: black;   
+    background-color: #CDD4EA;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 20px;
+}
+.right-side .top-color p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.right-side .top-simple p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.right-side .top-simple{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 20px;
+    background-color: #F2F2F2;
+}
+.right-side .table-width p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: 600;
+
+}
+.decor{
+    font-weight: 700;
+    text-decoration: underline;
+}
+.right-side .table-data{
+    display: flex;
+
+}
+.table-width{
+    background-color: #F2F2F2;
+     width: 33.3%; 
+     text-align: center;
+     
+}
+.right-side .table-width-color{
+    padding: 8px 0;
+    text-align: center;
+    background-color: #CDD4EA;
+}
+.right-side .table-width-color-min p{
+        padding-left: 20px;
+}
+.right-side .table-width-simple{
+    background-color: #F2F2F2;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 20px;
+    text-align: left;
+
+}
+.right-side .table-width-simple p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: 600;    
+}
+.block{
+    display: block;
+}
+.right-side .table-width-color-min{
+    padding: 8px 0;
+    text-align: left;
+    background-color: #CDD4EA;   
+    min-height: 110px;
+    align-items: center;
+    justify-content: left;
+    display: flex;    
+}
+.pad-extra p{
+    padding-bottom: 10px;
+}
+.list ul li{
+    text-align: left;
+    font-weight: 600;
+	font-size:14px
+}
+.list ul{
+    margin-top: 10px;
+}
+.mar-extra p{
+    padding-bottom: 7px;
+}
+.table-width.center-border {
+    border-left: 3px solid #8f8e8e;
+    border-right: 3px solid #8f8e8e;
+}
+.table-box-heading {
+    min-height: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 0 6px;
+}
+
+.banner p {
+    margin: 0;
+}
+.data-list ul{
+    margin-top: 45px !important;
+}
+.data-list ul li:nth-child(1) {
+    margin-bottom: 13px;
+}
+.data-list ul li:nth-child(2) {
+    margin-bottom: 13px;
+}
+.data-list ul li:nth-child(3) {
+    margin-bottom: 22px;
+}
+.data-list ul li:nth-child(4) {
+    margin-bottom: 25px;
+}
+.data-list ul li:nth-child(5) {
+    margin-bottom: 18px;
+}
+.banner .container{
+    padding-left: 0;
+}
+
+
+/* Image slider */
+
+.carousel.highlight-center-slide[data-flickity-items-per-slide="3"] .slide.is-selected.is-selected-center .slide-inner:after{
+	border:none
+}		</style>
+		<style type="text/css">/** Mega Menu CSS: fs **/</style>
+  </head>
+  <body class="error404 mega-menu-primary-navigation env-staging site-1 app-data index-data 404-data">
+                <header class="banner bg-cover" style=" background-image: url(https://www.arrowmarkpartners.com/wp-content/uploads/bg-header-scaled.jpg) ">
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light d-flex align-items-start px-0 pt-0 mb-0">
+      <div class="d-flex flex-column w-100">
+        <div class="d-flex">
+                  </div>
+                <div id="mega-menu-wrap-primary_navigation" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0' id='mega-toggle-block-0'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div></div><ul id="mega-menu-primary_navigation" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="body" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="1280" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-home mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-hide-arrow mega-menu-item-9' id='mega-menu-item-9'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/" aria-haspopup="true" aria-expanded="false" tabindex="0">About Us<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-home mega-menu-item-159' id='mega-menu-item-159'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/">Who We Are</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-home mega-menu-item-160' id='mega-menu-item-160'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/#firm-facts">Firm Statistics</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-home mega-menu-item-161' id='mega-menu-item-161'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/#Culture">Our Culture</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-home mega-menu-item-162' id='mega-menu-item-162'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/#story">Our History</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-home mega-menu-item-567' id='mega-menu-item-567'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/#story">Our Clients</a></li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-hide-arrow mega-menu-item-300' id='mega-menu-item-300'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/strategies/credit/" aria-haspopup="true" aria-expanded="false" tabindex="0">Our Strategies<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-hide-arrow mega-menu-item-64' id='mega-menu-item-64'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/credit/" aria-haspopup="true" aria-expanded="false">Credit<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-157' id='mega-menu-item-157'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/credit/">Credit Overview</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-275' id='mega-menu-item-275'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/credit/private-credit_/">Private Credit</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-78' id='mega-menu-item-78'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/credit/multi-asset/">Alternative Credit / Multi-Asset</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-80' id='mega-menu-item-80'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/credit/structured-credit/">CLO / Leveraged Loans</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-hide-arrow mega-menu-item-65' id='mega-menu-item-65'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/equity/" aria-haspopup="true" aria-expanded="false">Equity<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-156' id='mega-menu-item-156'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/equity/">Equity Overview</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-75' id='mega-menu-item-75'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/equity/long-only-equity/">Long Only Equity</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-77' id='mega-menu-item-77'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/equity/life-science/">Life Science</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-76' id='mega-menu-item-76'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/equity/hedged-equity/">Hedged Equity</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-hide-arrow mega-menu-item-63' id='mega-menu-item-63'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/real-estate/" aria-haspopup="true" aria-expanded="false">Real Estate<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-158' id='mega-menu-item-158'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/real-estate/">Real Estate Overview</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-82' id='mega-menu-item-82'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/real-estate/cre-debt/">CRE Structured Finance</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-81' id='mega-menu-item-81'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/real-estate/bridge-lending/">CML Platform</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-479' id='mega-menu-item-479'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/real-estate/transactions/">Transactions</a></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-550' id='mega-menu-item-550'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/private-capital-solutions/" tabindex="0">Private Capital Solutions</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-128' id='mega-menu-item-128'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/meridian/" tabindex="0">Meridian Funds</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-126' id='mega-menu-item-126'><a class="mega-menu-link" href="https://www.arrowmarkpartners.com/careers/" tabindex="0">Careers</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-129' id='mega-menu-item-129'><a class="mega-menu-link" href="#search" data-toggle="modal" data-target="#modalSearch" tabindex="0"><i></i></a></li></ul></div>
+      </div>
+      <a class="navbar-brand py-0" href="https://www.arrowmarkpartners.com/">
+        		  <img class="brand-logo img-fluid" src="https://www.arrowmarkpartners.com/wp-content/uploads/logo.png" alt="ArrowMark Partners">
+              </a>
+    </nav>
+      </div>
+</header>
+
+<div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="modalSearchTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title text-center text-blue" id="modalSearchTitle">Search ArrowMark Partners</h3>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="py-2">
+          <form action="/" method="get" class="search-form">
+  <div class="input-group">
+    <input type="text" name="s" data-swplive="true" data-swpengine="default" data-swpconfig="default" class="form-control form-control" placeholder="Search..." value="" aria-label="Search" aria-describedby="">
+    <div class="input-group-append">
+      <button class="btn" type="submit"><i class="fas fa-search"></i></button>
+    </div>
+  </div>
+</form>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+jQuery(document).ready(function($) {
+  $('#modalSearch').on('shown.bs.modal', function () {
+    $(this).find('input[name="s"]').focus();
+  });
+});
+</script>
+        <div class="breadcrumbs container pt-3 font-size-sm" typeof="BreadcrumbList" vocab="https://schema.org/">
+    <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ArrowMark Partners." href="https://www.arrowmarkpartners.com" class="home" ><span property="name">ArrowMark Partners</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name" class="404 current-item">404</span><meta property="url" content=""><meta property="position" content="2"></span>
+  </div>
+    <div class="wrap" role="document">
+      <main class="main">
+        
+  
+  <div class="container mb-4 py-4">
+    <div class="alert alert-warning">
+      Sorry, but the page you were trying to view does not exist.
+    </div>
+    <form action="/" method="get" class="search-form">
+  <div class="input-group">
+    <input type="text" name="s" data-swplive="true" data-swpengine="default" data-swpconfig="default" class="form-control form-control" placeholder="Search..." value="" aria-label="Search" aria-describedby="">
+    <div class="input-group-append">
+      <button class="btn" type="submit"><i class="fas fa-search"></i></button>
+    </div>
+  </div>
+</form>
+
+  </div>
+      </main>
+    </div>
+        <footer class="content-info py-5 font-size-xs">
+  <div class="footer-nav">
+    <div class="container">
+      <div class="row lg-gutters">
+        <div class="col-md-4 col-md-custom mb-4 mb-md-0">
+          <a href="https://www.arrowmarkpartners.com/">
+                          <img class="logo img-fluid mx-auto" src="https://www.arrowmarkpartners.com/wp-content/uploads/logo-alt.png" alt="ArrowMark Partners">
+                      </a>
+        </div>
+        <div class="col-md-4 col-md-custom mb-4 mb-md-0">
+                      <div class="legal font-size-xs pt-1">
+              <p>© 2023. All Rights Reserved.</p>
+<p><a href="https://www.arrowmarkpartners.com/wp-content/uploads/ArrowMark-Partners-Privacy-Notice.pdf" target="_blank" rel="noopener">Privacy Policy</a></p>
+<p><a href="https://www.arrowmarkpartners.com/wp-content/uploads/Form-CRS.pdf" target="_blank" rel="noopener">Form CRS</a></p>
+
+            </div>
+                  </div>
+        <div class="col-md-4 col-md-custom mb-4 mb-md-0">
+                      <ul class="footer-navigation list-unstyled clearfix">
+                                            <li class="parent">
+                  <a class="" href="https://www.arrowmarkpartners.com/" target="">About Us</a>
+                                  </li>
+                              <li class="parent">
+                  <a class="" href="https://www.arrowmarkpartners.com/strategies/credit/" target="">Our Strategies</a>
+                                  </li>
+                              <li class="parent">
+                  <a class="" href="https://www.arrowmarkpartners.com/private-capital-solutions/" target="">Capital Solutions</a>
+                                  </li>
+                              <li class="parent">
+                  <a class="" href="https://www.arrowmarkpartners.com/meridian/" target="">Meridian Funds</a>
+                                  </li>
+                              <li class="parent">
+                  <a class="" href="https://www.arrowmarkpartners.com/careers/" target="">Careers</a>
+                                  </li>
+                              <li class="parent">
+                  <a class="" href="https://www.arrowmarkpartners.com/contact/" target="">Contact Us</a>
+                                  </li>
+                          </ul>
+                                <div class="location font-size-xs">
+              <div title="Page 1">
+<div>
+<div>
+<div>100 Fillmore Street, Suite 325, Denver, Colorado 80206 • 303.398.2929</div>
+</div>
+</div>
+</div>
+
+            </div>
+                  </div>
+      </div>
+    </div>
+    <div class="text-center">
+      <ul class="list-inline mb-0">
+            <li><a class="display-block pr-1 font-size-xl" href="https://www.linkedin.com/company/arrowmarkpartners/mycompany/verification/?viewAsMember=true" target="_blank" rel="nofollow"><i class="fab fa-linkedin"></i></a></li>
+    </ul>
+
+    </div>
+  </div>
+</footer>
+<a href="#" class="back-to-top text-teal" role="button" title="Click to return on the top page"><i class="fas fa-chevron-circle-up"></i></a>
+            <style>
+            .searchwp-live-search-results {
+                opacity: 0;
+                transition: opacity .25s ease-in-out;
+                -moz-transition: opacity .25s ease-in-out;
+                -webkit-transition: opacity .25s ease-in-out;
+                height: 0;
+                overflow: hidden;
+                z-index: 9999995; /* Exceed SearchWP Modal Search Form overlay. */
+                position: absolute;
+                display: none;
+            }
+
+            .searchwp-live-search-results-showing {
+                display: block;
+                opacity: 1;
+                height: auto;
+                overflow: auto;
+            }
+
+            .searchwp-live-search-no-results {
+                padding: 3em 2em 0;
+                text-align: center;
+            }
+
+            .searchwp-live-search-no-min-chars:after {
+                content: "Continue typing";
+                display: block;
+                text-align: center;
+                padding: 2em 2em 0;
+            }
+        </style>
+                <script>
+            var _SEARCHWP_LIVE_AJAX_SEARCH_BLOCKS = true;
+            var _SEARCHWP_LIVE_AJAX_SEARCH_ENGINE = 'default';
+            var _SEARCHWP_LIVE_AJAX_SEARCH_CONFIG = 'default';
+        </script>
+        <script type='text/javascript' id='swp-live-search-client-js-extra'>
+/* <![CDATA[ */
+var searchwp_live_search_params = [];
+searchwp_live_search_params = {"ajaxurl":"https:\/\/www.arrowmarkpartners.com\/wp-admin\/admin-ajax.php","origin_id":0,"config":{"default":{"engine":"default","input":{"delay":300,"min_chars":3},"results":{"position":"bottom","width":"auto","offset":{"x":0,"y":5}},"spinner":{"lines":12,"length":8,"width":3,"radius":8,"scale":1,"corners":1,"color":"#424242","fadeColor":"transparent","speed":1,"rotate":0,"animation":"searchwp-spinner-line-fade-quick","direction":1,"zIndex":2000000000,"className":"spinner","top":"50%","left":"50%","shadow":"0 0 1px transparent","position":"absolute"}}},"msg_no_config_found":"No valid SearchWP Live Search configuration found!","aria_instructions":"When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures."};;
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.arrowmarkpartners.com/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/dist/script.min.js?ver=1.7.2' id='swp-live-search-client-js'></script>
+<script type='text/javascript' id='sage/main.js-js-extra'>
+/* <![CDATA[ */
+var myConfig = {"homeurl":"https:\/\/www.arrowmarkpartners.com\/","ajaxurl":"https:\/\/www.arrowmarkpartners.com\/wp-admin\/admin-ajax.php","env":"staging","postData":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.arrowmarkpartners.com/wp-content/themes/arrowmarkpartners/dist/scripts/main_52b67a6b.js' id='sage/main.js-js'></script>
+<script type='text/javascript' src='https://www.arrowmarkpartners.com/wp-content/themes/arrowmarkpartners/dist/scripts/shared_52b67a6b.js' id='sage/shared-js'></script>
+<script type='text/javascript' src='https://www.arrowmarkpartners.com/wp-includes/js/hoverIntent.min.js?ver=1.10.1' id='hoverIntent-js'></script>
+<script type='text/javascript' id='megamenu-js-extra'>
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.arrowmarkpartners.com/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.9.3' id='megamenu-js'></script>
+<script type='text/javascript' src='https://www.arrowmarkpartners.com/wp-content/plugins/megamenu-pro/assets/public.js?ver=2.1.1' id='megamenu-pro-js'></script>
+<script type='text/javascript' src='https://www.arrowmarkpartners.com/wp-includes/js/wp-embed.min.js?ver=5.8.2' id='wp-embed-js'></script>
+  </body>
+</html>
