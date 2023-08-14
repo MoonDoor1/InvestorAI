@@ -185,6 +185,9 @@ def buildRetreiver(embeddings):
         base_compressor=compressor, base_retriever=retriever
     )
 
+    # initialize llm
+    llm = ChatOpenAI(temperature=0.7, verbose=True, openai_api_key = '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', streaming=True)
+
     print("Building conversation chain...")
     memory = ConversationTokenBufferMemory(llm=llm, memory_key="chat_history", return_messages=True, input_key='question', max_token_limit=1000)
     question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT, verbose=True)
@@ -290,10 +293,10 @@ from langchain.retrievers.document_compressors import CohereRerank
 @cl.on_chat_start
 def init(): 
     # initialize llm
-    llm = ChatOpenAI(temperature=0.7, verbose=True, openai_api_key = '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', streaming=True)
+    llm = ChatOpenAI(temperature=0.7, verbose=True, openai_api_key = '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', streaming=True)
     # Congigure ChatGPT as the llm, along with memory and embeddings
     memory = ConversationTokenBufferMemory(llm=llm, memory_key="chat_history", return_messages=True, input_key='question', max_token_limit=1000)
-    embeddings = OpenAIEmbeddings(openai_api_key='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')
+    embeddings = OpenAIEmbeddings(openai_api_key='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')
 
     # load index
     docsearch = Pinecone.from_existing_index(index_name, embeddings)
