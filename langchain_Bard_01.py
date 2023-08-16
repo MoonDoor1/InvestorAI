@@ -340,7 +340,7 @@ async def main(message: str):
 # if __name__ == '__main__':
 #     data_dir = r"C:\Users\websu\Documents\LLM Projects\Investor Letters\Data\Letters\2022 Letters\Test Data"
 #     api_key = '8062bda0-956d-471c-8498-0b91c7997b98'
-#     openai_key = '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'
+#     openai_key = ''
 #     documents = load_data(data_dir)
 #     chunks = chunk_data(documents)
 #     embed_data(chunks)

@@ -3,6 +3,7 @@ import os
 from platform import node
 from webbrowser import get
 import openai
+from dotenv import load_dotenv
 #llama imports 
 from llama_index.node_parser.extractors.metadata_extractors import (
     MetadataExtractor,
@@ -23,9 +24,9 @@ from llama_index.llms import OpenAI
 
 
 #Set up vars
-os.environ["OPENAI_API_KEY"] = "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"
-data_dir = r"C:\Users\websu\Documents\LLM Projects\Investor Letters\Data\Letters\2022 Letters\Test Data"
-
+load_dotenv()
+data_dir = r"2022 Letters/Test Data"
+openai.api_key = os.getenv("OPENAI_API_KEY")  # Corrected here
 
 
 #Set up extractor and parser
@@ -67,7 +68,7 @@ def queryNodes(nodes, question):
     index = VectorStoreIndex(nodes, service_context=service_context)
 
     query_engine = index.as_query_engine()
-    response = query_engine.query("What is said by Fox-Kemper?")
+    response = query_engine.query(question)
     print(response)
 
 if __name__ == '__main__':
@@ -75,4 +76,4 @@ if __name__ == '__main__':
     documents = load_data(data_dir)
     print("Getting nodes")
     nodes = getNodes(documents)
-    queryNodes(nodes, "What does the investment landscape in russia look like?")
+    queryNodes(nodes, "What does the author of this letter think the best investment strategy is moving forward and why?")
