@@ -33,7 +33,7 @@ pinecone.init(
 	environment='us-west1-gcp-free'      
 )
 
-index_name = 'letters002'
+index_name = 'letters003'
 index = pinecone.Index(index_name)
 
 
@@ -109,7 +109,6 @@ def embed_data(chunks):
     upsert_response = index.upsert(vectors=pinecone_vectors)
     print("upsert finished, Length of pinecone vectors", len(pinecone_vectors))
 
-
 def retrieve(query):
     limit = 3750
 
@@ -126,11 +125,15 @@ def retrieve(query):
 
     # get relevant contexts
     res = index.query(xq, top_k=3, include_metadata=True)
-    print(res)
+    print("Retrieved documents:", res)  # Debugging statement
+
     contexts = [
         x['metadata']['text'] for x in res['matches']
-        ]
+    ]
 
+    # Print out the metadata for each retrieved document
+    for i, match in enumerate(res['matches']):
+        print(f"Document {i+1} metadata:", match['metadata'])  # Debugging statement
 
     # build our prompt with the retrieved contexts included
     prompt_start = (
@@ -156,8 +159,6 @@ def retrieve(query):
                 prompt_end
             )
     return prompt
-
-
 def complete(prompt):
     res = openai.ChatCompletion.create(
         model='gpt-3.5-turbo',
@@ -246,7 +247,6 @@ You are an AI-powered assistant with a focus on financial analysis and investmen
 Personality:
 Analytical: INVESTORAI excels in dissecting complex financial data and summarizing quarterly earnings. It presents valuable insights and analysis to help users make informed decisions.
 
-Cautious: Recognizing the multifaceted nature of investments, INVESTORAI carefully assesses potential risks and offers guidance on risk mitigation. It provides thoughtful recommendations tailored to each investment scenario.
 
 Innovative: INVESTORAI stays abreast of the latest investment trends and strategies, adapting its knowledge base and recommendations to align with market dynamics.
 
@@ -293,10 +293,10 @@ from langchain.retrievers.document_compressors import CohereRerank
 @cl.on_chat_start
 def init(): 
     # initialize llm
-    llm = ChatOpenAI(temperature=0.7, verbose=True, openai_api_key = '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', streaming=True)
+    llm = ChatOpenAI(temperature=0.7, verbose=True, openai_api_key = os.getenv("OPENAI_API_KEY"), streaming=True)
     # Congigure ChatGPT as the llm, along with memory and embeddings
     memory = ConversationTokenBufferMemory(llm=llm, memory_key="chat_history", return_messages=True, input_key='question', max_token_limit=1000)
-    embeddings = OpenAIEmbeddings(openai_api_key='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')
+    embeddings = OpenAIEmbeddings(openai_api_key= os.getenv("OPENAI_API_KEY"))
 
     # load index
     docsearch = Pinecone.from_existing_index(index_name, embeddings)
@@ -350,7 +350,7 @@ async def main(message: str):
     
     
     #embeddings = OpenAIEmbeddings()
-    #vectorstore = Pinecone.from_documents(chunks, embeddings, index_name="letters001")
+    #vectorstore = Pinecone.from_documents(chunks, embeddings, index_name="letters003")
     # query = ("What are key take aways from these investment letters?")
     # query_with_contexts = retrieve(query)
     # print(query_with_contexts)
